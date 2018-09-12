@@ -1,3 +1,3 @@
 # test-git
 
-ver 1.
+ver 1. b2
