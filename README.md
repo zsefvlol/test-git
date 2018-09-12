@@ -1,3 +1,3 @@
-# test-git b1
+# test-git
 
 ver 1.
